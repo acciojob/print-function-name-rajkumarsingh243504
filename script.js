@@ -7,3 +7,5 @@ function AccioJob()
 {
 	alert("AccioJob");
 }
+functionName();
+AccioJob();
